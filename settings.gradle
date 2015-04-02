@@ -1,1 +1,1 @@
-include ':AuthenticatorApp'
+include ':AuthenticatorApp', ':WearAuthenticatorApp'
